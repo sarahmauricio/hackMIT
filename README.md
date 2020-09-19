@@ -1,6 +1,11 @@
-#HackMIT Beginner Workshop!
+HackMIT Beginner Workshop!
 
-<img src="https://i.ibb.co/dgdbd2K/with-rails.png" alt="with-rails" width="100%" border="0" />
+HackBook website ! 
+Social network specifically for hackathon participants.
+It is able to 
+- Display your name, picture, and facts about yourself
+- Update those facts at anytime
+- Make posts with whatever content you desire
 
 * The slides for the workshop can be found at [go.hackmit.org/beginner-slides](https://go.hackmit.org/beginner-slides)
 
