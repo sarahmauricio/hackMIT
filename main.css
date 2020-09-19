@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+#title{
+    background-color: lightpink;
+}
+
+#headshot{
+    width: 25%;
+}
+
+.facts{
+    color: plum;
+    font-size: 2em;
+}
+
+
+#post1{
+    width: 60%;
+    margin: auto;
+}
